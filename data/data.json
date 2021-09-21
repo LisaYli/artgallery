@@ -1,0 +1,37 @@
+{
+  "art": [
+    {"id":"paintingwoman-mini",
+      "title":"Painting Woman",
+      "price":"2000 kr",
+      "desc":"Beutiful Mosaik Painting"
+    }
+  ,
+    {
+    "id":"man",
+      "title":"Pirate of the Caribean man painting",
+      "price":"1500 kr",
+      "desc":"Handmade Mosaik Rasta Man"
+    }
+  ,
+    {
+      "id":"body-mosaik",
+      "title":"Fifthy shades of gray",
+      "price":"2000 kr",
+      "desc":"Handmade Body in Mosaik"
+    }
+  ,
+    {
+      "id":"body-purple",
+      "title":"Fifthy shades of purple",
+      "price":"1500 kr",
+      "desc":"Handmade Body in Mosaik"
+    }
+  ,
+    {
+      "id":"vase",
+      "title":"white flower power",
+      "price":"100 kr",
+      "desc":"Handmade white face-vace"
+    }
+  ]
+}
